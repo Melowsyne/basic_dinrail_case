@@ -8,7 +8,7 @@ A 3D-printable enclosure for FDM printing – fully tested, including 3D-printed
 
 | Measurement | Value |
 | --- | --- |
-| Outer dimensions | 250 mm × 210 mm |
+| Outer dimensions (footprint) | 250 mm × 210 mm |
 | Usable interior space | 237 mm × 147 mm × 85 mm |
 | Mounting | 4 screw holes (Ø 6.4 mm), one at each corner |
 
